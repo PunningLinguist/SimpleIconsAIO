@@ -1,0 +1,360 @@
+title: Simple Icons AIO
+originalAuthor: PunningLinguist
+description: Changes most important check icons to the minimal icons from Televo's Re:Collection
+assets:
+#Forms
+- name: itempic/item-266.imd #Valor Form
+  method: copy
+  source:
+  - name: FormIcons/valor.imd
+- name: itempic/item-267.imd #Wisdom Form
+  method: copy
+  source:
+  - name: FormIcons/wisdom.imd
+- name: itempic/item-268.imd #Master Form
+  method: copy
+  source:
+  - name: FormIcons/master.imd
+- name: itempic/item-269.imd #Final Form
+  method: copy
+  source:
+  - name: FormIcons/final.imd
+- name: itempic/item-271.imd #Anti Form
+  method: copy
+  source:
+  - name: FormIcons/anti.imd
+- name: itempic/item-320.imd #Limit Form
+  method: copy
+  source:
+  - name: FormIcons/limit.imd
+- name: remastered/itempic/item-266.imd/-0.dds #Valor Form
+  platform: pc
+  method: copy
+  source:
+  - name: FormIcons/valor.dds
+- name: remastered/itempic/item-267.imd/-0.dds #Wisdom Form
+  platform: pc
+  method: copy
+  source:
+  - name: FormIcons/wisdom.dds
+- name: remastered/itempic/item-268.imd/-0.dds #Master Form
+  platform: pc
+  method: copy
+  source:
+  - name: FormIcons/master.dds
+- name: remastered/itempic/item-269.imd/-0.dds #Final Form
+  platform: pc
+  method: copy
+  source:
+  - name: FormIcons/final.dds
+- name: remastered/itempic/item-271.imd/-0.dds #Anti Form
+  platform: pc
+  method: copy
+  source:
+  - name: FormIcons/anti.dds
+- name: remastered/itempic/item-320.imd/-0.dds #Limit Form
+  platform: pc
+  method: copy
+  source:
+  - name: FormIcons/limit.dds
+#Magic
+- name: itempic/item-324.imd #Fire
+  method: copy
+  source:
+  - name: MagicIcons/fire.imd
+- name: itempic/item-325.imd #Blizzard
+  method: copy
+  source:
+  - name: MagicIcons/blizzard.imd
+- name: itempic/item-326.imd #Thunder
+  method: copy
+  source:
+  - name: MagicIcons/thunder.imd
+- name: itempic/item-327.imd #Cure
+  method: copy
+  source:
+  - name: MagicIcons/cure.imd
+- name: itempic/item-328.imd #Magnet
+  method: copy
+  source:
+  - name: MagicIcons/magnet.imd
+- name: itempic/item-329.imd #Reflect
+  method: copy
+  source:
+  - name: MagicIcons/reflect.imd
+- name: remastered/itempic/item-324.imd/-0.dds #Fire
+  platform: pc
+  method: copy
+  source:
+  - name: MagicIcons/fire.dds
+- name: remastered/itempic/item-325.imd/-0.dds #Blizzard
+  platform: pc
+  method: copy
+  source:
+  - name: MagicIcons/blizzard.dds
+- name: remastered/itempic/item-326.imd/-0.dds #Thunder
+  platform: pc
+  method: copy
+  source:
+  - name: MagicIcons/thunder.dds
+- name: remastered/itempic/item-327.imd/-0.dds #Cure
+  platform: pc
+  method: copy
+  source:
+  - name: MagicIcons/cure.dds
+- name: remastered/itempic/item-328.imd/-0.dds #Magnet
+  platform: pc
+  method: copy
+  source:
+  - name: MagicIcons/magnet.dds
+- name: remastered/itempic/item-329.imd/-0.dds #Reflect
+  platform: pc
+  method: copy
+  source:
+  - name: MagicIcons/reflect.dds
+#Summons
+- name: itempic/item-221.imd #Lamp Charm
+  method: copy
+  source:
+  - name: SummonIcons/genie.imd
+- name: itempic/item-222.imd #Ukulele Charm
+  method: copy
+  source:
+  - name: SummonIcons/stitch.imd
+- name: itempic/item-223.imd #Feather Charm
+  method: copy
+  source:
+  - name: SummonIcons/pan.imd
+- name: itempic/item-224.imd #Baseball Charm
+  method: copy
+  source:
+  - name: SummonIcons/chicken.imd
+- name: remastered/itempic/item-221.imd/-0.dds #Lamp Charm
+  platform: pc
+  method: copy
+  source:
+  - name: SummonIcons/genie.dds
+- name: remastered/itempic/item-222.imd/-0.dds #Ukulele Charm
+  platform: pc
+  method: copy
+  source:
+  - name: SummonIcons/stitch.dds
+- name: remastered/itempic/item-223.imd/-0.dds #Feather Charm
+  platform: pc
+  method: copy
+  source:
+  - name: SummonIcons/pan.dds
+- name: remastered/itempic/item-224.imd/-0.dds #Baseball Charm
+  platform: pc
+  method: copy
+  source:
+  - name: SummonIcons/chicken.dds
+#Unlocks
+- name: itempic/item-021.imd #Torn Page
+  method: copy
+  source:
+  - name: UnlockIcons/page.imd
+- name: itempic/item-091.imd #DUMMY 13 (Royal Summons)
+  method: copy
+  source:
+  - name: UnlockIcons/dc.imd
+- name: itempic/item-092.imd #Scimitar
+  method: copy
+  source:
+  - name: UnlockIcons/ag.imd
+- name: itempic/item-093.imd #Battlefields of War
+  method: copy
+  source:
+  - name: UnlockIcons/oc.imd
+- name: itempic/item-094.imd #Sword of the Ancestor
+  method: copy
+  source:
+  - name: UnlockIcons/lod.imd
+- name: itempic/item-095.imd #Identity Disk
+  method: copy
+  source:
+  - name: UnlockIcons/sp.imd
+- name: itempic/item-096.imd #Skill and Crossbones
+  method: copy
+  source:
+  - name: UnlockIcons/pr.imd
+- name: itempic/item-097.imd #Way to the Dawn
+  method: copy
+  source:
+  - name: UnlockIcons/twtnw.imd
+- name: itempic/item-098.imd #Beast's Claw
+  method: copy
+  source:
+  - name: UnlockIcons/bc.imd
+- name: itempic/item-099.imd #Bone Fist
+  method: copy
+  source:
+  - name: UnlockIcons/ht.imd
+- name: itempic/item-100.imd #Proud Fang
+  method: copy
+  source:
+  - name: UnlockIcons/pl.imd
+- name: itempic/item-231.imd #Namine's Sketches
+  method: copy
+  source:
+  - name: UnlockIcons/stt.imd
+- name: itempic/item-232.imd #Membership Card
+  method: copy
+  source:
+  - name: UnlockIcons/hb.imd
+- name: itempic/item-233.imd #Olympus Stone
+  method: copy
+  source:
+  - name: UnlockIcons/stone.imd
+- name: itempic/item-238.imd #Ice Cream
+  method: copy
+  source:
+  - name: UnlockIcons/tt.imd
+- name: itempic/item-240.imd #DUMMY 15 (Unknown Disk)
+  method: copy
+  source:
+  - name: UnlockIcons/disc.imd
+- name: itempic/item-244.imd #Hades Cup Trophy
+  method: copy
+  source:
+  - name: UnlockIcons/cups.imd
+- name: remastered/itempic/item-021.imd/-0.dds #Torn Page
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/page.dds
+- name: remastered/itempic/item-091.imd/-0.dds #DUMMY 13 (Royal Summons)
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/dc.dds
+- name: remastered/itempic/item-092.imd/-0.dds #Scimitar
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/ag.dds
+- name: remastered/itempic/item-093.imd/-0.dds #Battlefields of War
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/oc.dds
+- name: remastered/itempic/item-094.imd/-0.dds #Sword of the Ancestor
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/lod.dds
+- name: remastered/itempic/item-095.imd/-0.dds #Identity Disk
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/sp.dds
+- name: remastered/itempic/item-096.imd/-0.dds #Skill and Crossbones
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/pr.dds
+- name: remastered/itempic/item-097.imd/-0.dds #Way to the Dawn
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/twtnw.dds
+- name: remastered/itempic/item-098.imd/-0.dds #Beast's Claw
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/bc.dds
+- name: remastered/itempic/item-099.imd/-0.dds #Bone Fist
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/ht.dds
+- name: remastered/itempic/item-100.imd/-0.dds #Proud Fang
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/pl.dds
+- name: remastered/itempic/item-231.imd/-0.dds #Namine's Sketches
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/stt.dds
+- name: remastered/itempic/item-232.imd/-0.dds #Membership Card
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/hb.dds
+- name: remastered/itempic/item-233.imd/-0.dds #Olympus Stone
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/stone.dds
+- name: remastered/itempic/item-238.imd/-0.dds #Ice Cream
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/tt.dds
+- name: remastered/itempic/item-240.imd/-0.dds #DUMMY 15 (Unknown Disk)
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/disc.dds
+- name: remastered/itempic/item-244.imd/-0.dds #Hades Cup Trophy
+  platform: pc
+  method: copy
+  source:
+  - name: UnlockIcons/cups.dds
+#Other
+- name: itempic/item-225.imd #Munny Pouch
+  method: copy
+  source:
+  - name: MiscIcons/munny.imd
+- name: itempic/item-241.imd #Ansem Report
+  method: copy
+  source:
+  - name: MiscIcons/report.imd
+- name: itempic/item-242.imd #Promise Charm
+  method: copy
+  source:
+  - name: MiscIcons/charm.imd
+- name: itempic/item-321.imd #Proof of Connection
+  method: copy
+  source:
+  - name: MiscIcons/conn.imd
+- name: itempic/item-322.imd #Proof of Nonexistence
+  method: copy
+  source:
+  - name: MiscIcons/non.imd
+- name: itempic/item-323.imd #Proof of Peace
+  method: copy
+  source:
+  - name: MiscIcons/peace.imd
+- name: remastered/itempic/item-225.imd/-0.dds #Munny Pouch
+  platform: pc
+  method: copy
+  source:
+  - name: MiscIcons/munny.dds
+  - name: remastered/itempic/item-241.imd/-0.dds #Ansem Report
+  platform: pc
+  method: copy
+  source:
+  - name: MiscIcons/report.dds
+- name: remastered/itempic/item-242.imd/-0.dds #Promise Charm
+  platform: pc
+  method: copy
+  source:
+  - name: MiscIcons/charm.dds
+- name: remastered/itempic/item-321.imd/-0.dds #Proof of Connection
+  platform: pc
+  method: copy
+  source:
+  - name: MiscIcons/conn.dds
+- name: remastered/itempic/item-322.imd/-0.dds #Proof of Nonexistence
+  platform: pc
+  method: copy
+  source:
+  - name: MiscIcons/non.dds
+- name: remastered/itempic/item-323.imd/-0.dds #Proof of Peace
+  platform: pc
+  method: copy
+  source:
+  - name: MiscIcons/peace.dds
