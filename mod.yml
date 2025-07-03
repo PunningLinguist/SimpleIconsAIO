@@ -333,7 +333,7 @@ assets:
   method: copy
   source:
   - name: MiscIcons/munny.dds
-  - name: remastered/itempic/item-241.imd/-0.dds #Ansem Report
+- name: remastered/itempic/item-241.imd/-0.dds #Ansem Report
   platform: pc
   method: copy
   source:
