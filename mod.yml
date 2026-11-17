@@ -441,6 +441,10 @@ assets:
   - name: itempic/item-065.imd
   - name: itempic/item-066.imd
   - name: itempic/item-067.imd
+  - name: itempic/item-296.imd
+  - name: itempic/item-297.imd
+  - name: itempic/item-298.imd
+  - name: itempic/item-299.imd
   - name: itempic/item-300.imd
   - name: itempic/item-301.imd
   method: copy
@@ -472,6 +476,10 @@ assets:
   - name: remastered/itempic/item-065.imd/-0.dds
   - name: remastered/itempic/item-066.imd/-0.dds
   - name: remastered/itempic/item-067.imd/-0.dds
+  - name: remastered/itempic/item-296.imd/-0.dds
+  - name: remastered/itempic/item-297.imd/-0.dds
+  - name: remastered/itempic/item-298.imd/-0.dds
+  - name: remastered/itempic/item-299.imd/-0.dds
   - name: remastered/itempic/item-300.imd/-0.dds
   - name: remastered/itempic/item-301.imd/-0.dds
   platform: pc
